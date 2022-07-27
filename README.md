@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Grafcet](https://grafcet.com.br/)
 
-- 🌱 I’m currently learning **PHP e Laravel**
+- 🌱 I’m currently learning **NodeJS and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kelvin-had1](https://github.com/kelvin-had1)
 
