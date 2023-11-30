@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvin-had1&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin-had1" /> </p>
 
-- 🔭 I’m currently working on [Mestres da Web](https://mestresdaweb.com.br/)
-
 - 🌱 I’m currently learning **NodeJS and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kelvin-had1](https://github.com/kelvin-had1)
